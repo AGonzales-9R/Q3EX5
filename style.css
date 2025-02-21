@@ -1,0 +1,49 @@
+* {
+
+}
+
+body {
+	font-family: "Sour Gummy", serif;
+  	font-optical-sizing: auto;
+ 	font-weight: <weight>;
+  	font-style: normal;
+  	font-variation-settings:
+    "wdth" 100;
+	background-image: url(https://img.freepik.com/free-vector/strawberry-cake-patterned-background-vector-cute-hand-drawn-style_53876-126122.jpg);
+	background-size: cover;
+	color: white;
+}
+
+h1 {
+	text-align: center;
+}
+
+label {
+	font-size: 18px;
+}
+
+summary {
+	font-size: 18px;
+}
+
+p {
+	font-size: 20px;
+}
+
+a {
+	color: white;
+}
+
+footer {
+	text-align: center;
+	font-size: 18px;
+}
+
+.container {
+	width: 50%;
+	background-color: #780000;
+	padding: 20px;
+	border-radius: 20px;
+	margin: auto;
+
+}
